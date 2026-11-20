@@ -1,16 +1,16 @@
-# color_picker_app 🎨
+# chromatic_studio 🎨
 
 ## Badges 🛡️
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Muhammadsaifff/color_picker_app/actions)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/Muhammadsaifff/color_picker_app/releases)
-[![License](https://img.shields.io/badge/license-MIT-red)](https://github.com/Muhammadsaifff/color_picker_app/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/Muhammadsaifff/color_picker_app?style=social)](https://github.com/Muhammadsaifff/color_picker_app/stargazers)
-[![Forks](https://img.shields.io/github/forks/Muhammadsaifff/color_picker_app?style=social)](https://github.com/Muhammadsaifff/color_picker_app/forks)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Muhammadsaifff/chromatic_studio/actions)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/Muhammadsaifff/chromatic_studio/releases)
+[![License](https://img.shields.io/badge/license-MIT-red)](https://github.com/Muhammadsaifff/chromatic_studioblob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/Muhammadsaifff/color_picker_app?style=social)](https://github.com/Muhammadsaifff/chromatic_studio/stargazers)
+[![Forks](https://img.shields.io/github/forks/Muhammadsaifff/color_picker_app?style=social)](https://github.com/Muhammadsaifff/chromatic_studio/forks)
 
 ## Description 📝
 
-`color_picker_app` is a Flutter project aimed at providing a user-friendly interface for selecting and potentially manipulating colors. While the repository description is minimal, the code structure suggests a cross-platform application built with Flutter, with specific configurations for iOS, macOS, and Windows. The project appears to be a foundational application, possibly intended as a starting point for more complex color-related utilities or design tools.
+`chromatic_studio` is a Flutter project aimed at providing a user-friendly interface for selecting and potentially manipulating colors. While the repository description is minimal, the code structure suggests a cross-platform application built with Flutter, with specific configurations for iOS, macOS, and Windows. The project appears to be a foundational application, possibly intended as a starting point for more complex color-related utilities or design tools.
 
 ## Table of Contents 📋
 
@@ -47,8 +47,8 @@ This project is a starting point for a Flutter application. To get started, you'
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Muhammadsaifff/color_picker_app.git
-    cd color_picker_app
+    git clone https://github.com/Muhammadsaifff/chromatic_studio.git
+    cd chromatic_studio
     ```
 
 2.  **Get Flutter dependencies:**
@@ -166,7 +166,7 @@ class _ColorPickerWidgetState extends State<ColorPickerWidget> {
 ## Project Structure 📂
 
 ```
-color_picker_app/
+chromatic_studio/
 ├── .metadata
 ├── .pubignore
 ├── analysis_options.yaml
@@ -248,13 +248,13 @@ Please ensure your contributions align with the project's existing structure and
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Muhammadsaifff/color_picker_app/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Muhammadsaifff/chromatic_studio/blob/main/LICENSE) file for details.
 
 ## Footer 👣
 
 **color_picker_app**
 
--   **Repository**: [Muhammadsaifff/color_picker_app](https://github.com/Muhammadsaifff/color_picker_app)
+-   **Repository**: [Muhammadsaifff/chromatic_studio](https://github.com/Muhammadsaifff/chromatic_studio)
 -   **Author**: [Muhammad Saif](https://github.com/Muhammadsaifff)
 
 If you find this project helpful, please consider giving it a ⭐ Star, 🍴 Forking it, or opening an ❗ Issue if you encounter any problems.
